@@ -3,7 +3,9 @@
 ### Install Guide
 
 Download official BullSnock Launcher [here](google.com)
+
 Open, login to your Minecraft account, 
+
 Add server, for IP use `mc.bullsnock.com`
 
 ### FAQ
