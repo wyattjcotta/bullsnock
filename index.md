@@ -14,7 +14,7 @@ Welcome to a Operation Bullsnock, the pinnacle of the modded Minecraft multiplay
 
 ## FAQ
 
-### What do I do if it isn't working?
+#### What do I do if it isn't working?
 
 Go cry about it
  
