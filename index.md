@@ -4,7 +4,7 @@ Welcome to a Operation Bullsnock, the pinnacle of the modded Minecraft multiplay
 
 ### Install Guide
 
-1. Download official BullSnock Launcher [here](google.com)
+1. Download official BullSnock Launcher [here](https://github.com/wyattjcotta/bullsnock/raw/gh-pages/Bullsnock%20Launcher.jar)
 
 2. Open the launcher, login to your Minecraft account
 
