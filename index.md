@@ -1,4 +1,4 @@
-# Operation BullSnock: Season one 
+# Operation Bullsnock  
 
 Welcome to a Operation Bullsnock, the pinnacle of the modded Minecraft multiplayer experience. 
 
