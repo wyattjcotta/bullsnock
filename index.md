@@ -1,12 +1,16 @@
 # Operation BullSnock: Season one 
 
+Welcome to a Operation Bullsnock, the pinnacle of the modded Minecraft multiplayer experience. 
+
 ### Install Guide
 
-Download official BullSnock Launcher [here](google.com)
+1. Download official BullSnock Launcher [here](google.com)
 
-Open, login to your Minecraft account, 
+2. Open the launcher, login to your Minecraft account
 
-Add server, for IP use `mc.bullsnock.com`
+3. In the Multiplayer menu, add our server with the adreess `mc.bullsnock.com`
+
+
 
 ### FAQ
 
