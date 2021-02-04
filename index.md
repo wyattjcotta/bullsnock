@@ -2,7 +2,7 @@
 
 Welcome to a Operation Bullsnock, the pinnacle of the modded Minecraft multiplayer experience. 
 
-### Install Guide
+## Install Guide
 
 1. Download official Bullsnock Launcher [here](https://github.com/wyattjcotta/bullsnock/raw/gh-pages/Bullsnock%20Launcher.jar)
 
@@ -12,12 +12,12 @@ Welcome to a Operation Bullsnock, the pinnacle of the modded Minecraft multiplay
 
 
 
-### FAQ
+## FAQ
 
-###### What do I do if it isn't working?
+### What do I do if it isn't working?
 
-	Go cry about it
+Go cry about it
  
-### Support
+## Support
 
 ![moose](https://i.pinimg.com/originals/90/04/46/90044669bf05839da07b5fb4efd5bf89.png)
