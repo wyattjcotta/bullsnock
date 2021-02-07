@@ -1,0 +1,32 @@
+
+#General settings
+[general]
+	#Enable Scythe
+	scythe = false
+	#Enable Confetti
+	confetti = false
+	#Enable Warhammer
+	warhammer = false
+	#Enable Golden Coins
+	coins = false
+	#Enable Grab Hook
+	grab_hook = false
+	#Enable Leather and Straw Blocks
+	leather_straw = false
+	#Enable Food
+	food = false
+	#Enable Tea
+	tea = false
+	#Enable Cushion
+	cushion = false
+	#Enable Courtroom Items
+	courtroom = false
+	#Enable Spyglass
+	spyglass = false
+	#Enable Bookcase
+	bookcase = false
+	#Enable Ender Flask
+	flask = false
+	#Enable Carved Wood
+	carved_wood = false
+

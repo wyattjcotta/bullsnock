@@ -1,0 +1,8 @@
+
+#Server and Client side changes.
+[common]
+	#Disabling this will prevent time from passing in the dream dimensions, this locks it at noon/midnight. Highly recommended for servers. (Note: players will need to craft a bed to leave the dimensions)
+	disableTimePassing = false
+	#Allows Phantoms to spawn in the Nightmare dimension.
+	allowNightmarePhantoms = true
+

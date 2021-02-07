@@ -1,0 +1,16 @@
+
+[balance]
+	#Hermit House generation
+	hermit_house = true
+	#Brown Bear spawning
+	brown_bear = true
+	#Cheerfulness effect amplifier
+	#Range: 0 ~ 20
+	cheerfulness_level = 3
+	#Structures and Features appears only in vanilla biomes
+	only_vanilla_taiga_features = false
+	#Lichen generation
+	lichen = true
+	#Rotten Logs generation
+	rotten_logs = true
+

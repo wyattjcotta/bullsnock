@@ -1,0 +1,7 @@
+#Items that the lizard doggo can be bred with.
+#Examples: minecraft:glowstone_dust, minecraft:stone, ...
+breeding_items = ["minecraft:glowstone_dust"]
+#Items that the lizard doggo can be tamed with.
+#Examples: minecraft:glowstone_dust, minecraft:stone, ...
+taming_items = ["minecraft:cod", "minecraft:salmon", "minecraft:tropical_fish"]
+
