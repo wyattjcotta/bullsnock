@@ -1535,7 +1535,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/rats.gif") center center no-repeat;
+  background: url("../img/rats.gif") center center repeat;
   color: #fff;
   font-size: 14px;
   position: relative;
