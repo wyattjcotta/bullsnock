@@ -280,7 +280,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header Social Links
 --------------------------------------------------------------*/
 .header-social-links {
-  padding-left: 20px;
+  padding-left: 0px;
 }
 
 .header-social-links a {
@@ -292,6 +292,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-social-links a:hover {
+  color: #ff7f5d;
+}
+
+.header-social-links img {
+	color: #FFFFFF
+}
+
+.header-social-links img:hover {
   color: #ff7f5d;
 }
 
