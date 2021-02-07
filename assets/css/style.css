@@ -417,18 +417,18 @@ h1, h2, h3, h4, h5, h6 {
   background: url("../img/cow.gif") top center;
   background-size: cover;
   position: relative;
-  margin-bottom: 50px;
+  margin-bottom: 0px;
 }
 
 @media (max-width: 992px) {
   #hero {
-    margin-bottom: 20px;
+    margin-bottom: 0px;
   }
 }
 
 #hero:before {
   content: "";
-  background: /* rgba(21, 5, 23, 0.5) linear-gradient(rgba(26, 0, 33, 0.5) 0%, rgba(26, 0, 33, 0.5) 5%, rgba(38, 6, 51, 0.5) 40%, rgba(147, 47, 69, 0.7) 76%, rgba(236, 97, 93, 0.7) 94%, rgba(236, 97, 93, 0.5) 100%) repeat scroll 0% 0%; */
+  background: radial-gradient(circle, rgba(9,132,191,0.7063200280112045) 0%, rgba(9,132,191,0.5018382352941176) 100%);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -455,11 +455,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 56px;
   text-transform: ;
-  color: #000000 ;
+  color: #fff ;
 }
 
 #hero h2 {
-  color: #000000 ;
+  color: #fff ;
   margin: 15px 0 0 0;
   font-size: 24px;
 }
@@ -474,13 +474,33 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 4px;
   transition: 0.5s;
   margin-top: 30px;
-  border: 2px solid #000000;
-  color: #000000;
+  border: 2px solid #fff;
+  color: ;
 }
 
 #hero .btn-get-started:hover {
   background: #54ff57;
   border: 2px solid #54ff57;
+}
+
+#hero .btn-grad {background-image: linear-gradient(to right, #348F50 0%, #56B4D3  51%, #348F50  100%)}
+#hero .btn-grad {
+margin: 10px;
+padding: 15px 45px;
+text-align: center;
+text-transform: uppercase;
+transition: 2s;
+background-size: 200% auto;
+color: white;            
+box-shadow: 0 0 0px #eee;
+border-radius: 10px;
+display: block;
+}
+
+#hero .btn-grad:hover {
+background-position: right center; /* change the direction of the change here */
+color: #fff;
+text-decoration: none;
 }
 
 @media (min-width: 1024px) {
